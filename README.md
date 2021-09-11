@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @queenielai
-- 👀 I’m interested in 
+- 👀 I’m interested in learning new thing.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on working on a project.
+- 📫 How to reach me ... slack me!
 
 <!---
 queenielai/queenielai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
